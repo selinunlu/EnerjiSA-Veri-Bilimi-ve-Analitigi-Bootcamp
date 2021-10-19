@@ -1,5 +1,4 @@
-# enerjisa_bootcamp_1_homework
-enerjisa_bootcamp_1_homework created by GitHub Classroom
+# EnerjiSA_bootcamp_homework_1
 
 **Ödev Soruları:**
 
