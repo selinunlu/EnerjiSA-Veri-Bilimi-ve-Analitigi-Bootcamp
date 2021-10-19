@@ -1,5 +1,5 @@
-# 121_enerjisa_bootcamp_1_homework-selinunlu
-121_enerjisa_bootcamp_1_homework-selinunlu created by GitHub Classroom
+# enerjisa_bootcamp_1_homework
+enerjisa_bootcamp_1_homework created by GitHub Classroom
 
 **Ödev Soruları:**
 
