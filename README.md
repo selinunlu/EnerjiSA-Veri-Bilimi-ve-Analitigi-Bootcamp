@@ -1,1 +1,1 @@
-# selinunlu-EnerjiSA-Veri-Bilimi-ve-Analitigi-Bootcamp-Odevleri
+# EnerjiSA-Veri-Bilimi-ve-Analitigi-Bootcamp-Odevleri
