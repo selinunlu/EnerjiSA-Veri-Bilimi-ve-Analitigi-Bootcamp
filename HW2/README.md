@@ -1,4 +1,4 @@
-# HW2 | House Prices Project
+# HW2 | House Prices
 
 ## Veri üzerinde yapılan işlemler:
 
