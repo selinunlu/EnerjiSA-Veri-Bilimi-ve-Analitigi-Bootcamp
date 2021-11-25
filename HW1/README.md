@@ -1,4 +1,4 @@
-# EnerjiSA_bootcamp_homework_1
+# HW 1
 
 **Ödev Soruları:**
 
