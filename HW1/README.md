@@ -1,4 +1,4 @@
-# HW 1
+# HW1
 
 **Ödev Soruları:**
 
