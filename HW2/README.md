@@ -2,23 +2,29 @@
 
 * **Variable** - Variable name.
 
-* **Type** - Değişkenlerin tipinin tanımlanması. Bu alan için iki olası değer kullanabiliriz: 'sayısal' veya 'kategorik'
+* **Type** - Değişkenlerin tipinin tanımlanması. Bu alan için iki değer kullanıldı: `sayısal` veya `kategorik`.
 
-* **Segment** - Değişkenlerin segmentinin tanımlanması. Üç olası segment tanımlayabiliriz: building, space veya location. 'Building' dediğimizde, binanın fiziksel özellikleriyle ilgili bir değişkeni kastediyoruz (örneğin, 'OverallQual'). 'Space' dediğimizde, evin alan özelliklerini bildiren bir değişkeni kastediyoruz (ör. 'TotalBsmtSF'). Son olarak 'Location' dediğimizde evin bulunduğu yer hakkında bilgi veren bir değişkeni kastediyoruz (örneğin 'Neighborhood').
+* **Segment** - Değişkenlerin segmentinin tanımlanması. Üç olası segment tanımlandı: `building`, `space` veya `location`. `Building`, binanın fiziksel özellikleriyle ilgili bir değişkeni kastediyor (örneğin, 'OverallQual'). `Space`, evin alan özelliklerini bildiren bir değişkeni kastediyor (örneğin, 'TotalBsmtSF'). `Location`, evin bulunduğu yer hakkında bilgi veren bir değişkeni kastediyor (örneğin, 'Neighborhood').
 
-* **Expectation** - 'SalePrice' değişken etkisi hakkındaki beklentimiz. Olası değerler olarak 'Yüksek', 'Orta' ve 'Düşük' olan kategorik bir ölçek kullanabiliriz.
+* **Expectation** - `SalePrice` değişken etkisi hakkındaki beklenti. Olası değerler olarak `Yüksek`, `Orta` ve `Düşük` olan kategorik bir ölçek kullanıldı.
 
-* **Conclusion** - Verilere hızlı bir bakış attıktan sonra, değişkenin önemi hakkındaki sonuçlarımız. 'Expectation' ile aynı kategorik ölçekte devam edebiliriz.
+* **Conclusion** - Verilere hızlı bir bakış attıktan sonra, değişkenin önemi hakkındaki sonuçlar. `Expectation` ile aynı kategorik ölçekte devam edildi.
 
-* **Comments** - Değişkenler hakkında genel yorumumuzu buraya yazabiliriz.
+* **Comments** - Değişkenler hakkında genel yorum.
 
 
-**Veri üzerinde yapılan işlemler:**
+### Veri üzerinde yapılan işlemler:
 
 * Sezgisel analiz kısmını tamamlayabilmek adına, tablo formatının oluşturulması.
+
 * Benzerliği yüksek veriler, modelin anlamlılığında fazladan etki edebileceği için, veri içindeki değişkenlerden benzerliği yüksek verilerin gruplanması veya kullanılacak verinin seçilmesi.
-    *Bu maddede korelasyon coef katsayıları üzerinden ilerleyebiliriz. Benzerliği yüksek verilerin tek bir değişken haline getirilip getirilemeyeceğini değerlendirebilir. Eğer tek bir değişken haline getiremiyorsak benzer verilerden hangisini seçmemiz gerektiği üzerinde bir konuşabiliriz.
-* Veri setimizde anlamlı olabilecek yeni kolonlar oluşturulması.
-    *Bu madde için, birbirleriyle sayısal veya anlamsal ilişkisi olan değişkenlerden matematiksel hesaplamalar veya gruplandırmalar yaparak veri setimizi büyütebiliriz.
-* Outlierları temizleyip, bağımlı değişken üzerinde verileri normalleştirmeye çalışıyor olacağız.
+
+    - Bu maddede korelasyon coef katsayıları üzerinden ilerlendi. Benzerliği yüksek verilerin tek bir değişken haline getirilip getirilemeyeceğini değerlendirildi. Eğer tek bir değişken haline getiremiyorsak benzer verilerden hangisini seçmemiz gerektiği üzerinde konuşuldu.
+    
+* Veri setinde anlamlı olabilecek yeni kolonlar oluşturulması.
+
+    - Bu madde için, birbirleriyle sayısal veya anlamsal ilişkisi olan değişkenlerden matematiksel hesaplamalar veya gruplandırmalar yaparak veri seti büyütüldü.
+ 
+ 
+* Outlierları temizleyip, bağımlı değişken üzerinde verileri normalleştirmeye çalışılması.
 
