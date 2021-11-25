@@ -13,7 +13,7 @@
 * **Comments** - Değişkenler hakkında genel yorum.
 
 
-### Veri üzerinde yapılan işlemler:
+## Veri üzerinde yapılan işlemler:
 
 * Sezgisel analiz kısmını tamamlayabilmek adına, tablo formatının oluşturulması.
 
