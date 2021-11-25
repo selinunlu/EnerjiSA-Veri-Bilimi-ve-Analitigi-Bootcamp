@@ -16,15 +16,15 @@
 
 ##
 
-* **Variable** - Variable name.
+* `Variable` - Variable name.
 
-* **Type** - Değişkenlerin tipinin tanımlanması. Bu alan için iki değer kullanıldı: `sayısal` veya `kategorik`.
+* `Type` - Değişkenlerin tipinin tanımlanması. Bu alan için iki değer kullanıldı: **sayısal** veya **kategorik**.
 
-* **Segment** - Değişkenlerin segmentinin tanımlanması. Üç olası segment tanımlandı: `building`, `space` veya `location`. `Building`, binanın fiziksel özellikleriyle ilgili bir değişkeni kastediyor (örneğin, 'OverallQual'). `Space`, evin alan özelliklerini bildiren bir değişkeni kastediyor (örneğin, 'TotalBsmtSF'). `Location`, evin bulunduğu yer hakkında bilgi veren bir değişkeni kastediyor (örneğin, 'Neighborhood').
+* `Segment` - Değişkenlerin segmentinin tanımlanması. Üç olası segment tanımlandı: building, space veya location. **Building**, binanın fiziksel özellikleriyle ilgili bir değişkeni kastediyor (örneğin, 'OverallQual'). **Space**, evin alan özelliklerini bildiren bir değişkeni kastediyor (örneğin, 'TotalBsmtSF'). **Location**, evin bulunduğu yer hakkında bilgi veren bir değişkeni kastediyor (örneğin, 'Neighborhood').
 
-* **Expectation** - `SalePrice` değişken etkisi hakkındaki beklenti. Olası değerler olarak `Yüksek`, `Orta` ve `Düşük` olan kategorik bir ölçek kullanıldı.
+* `Expectation` - `SalePrice` değişken etkisi hakkındaki beklenti. Olası değerler olarak **yüksek**, **orta** ve **düşük** olan kategorik bir ölçek kullanıldı.
 
-* **Conclusion** - Verilere hızlı bir bakış attıktan sonra, değişkenin önemi hakkındaki sonuçlar. `Expectation` ile aynı kategorik ölçekte devam edildi.
+* `Conclusion` - Verilere hızlı bir bakış attıktan sonra, değişkenin önemi hakkındaki sonuçlar. **Expectation** ile aynı kategorik ölçekte devam edildi.
 
-* **Comments** - Değişkenler hakkında genel yorum.
+* `Comments` - Değişkenler hakkında genel yorum.
 
