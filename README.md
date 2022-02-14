@@ -1,3 +1,3 @@
 # EnerjiSA Veri Bilimi ve Analitiği Bootcamp
 
-Bu repository EnerjiSA Veri Bilimi ve Veri Analitiği Bootcamp için oluşturuldu.
+This repository is for EnerjiSA Data Science and Data Analytics Bootcamp studies.
